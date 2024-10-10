@@ -1,0 +1,2 @@
+Prefix plugins/ChainSeg/example/
+Plugin ChainSeg inputfile 1.pdb outputfile output.chain.seg.pdb
